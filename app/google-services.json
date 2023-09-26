@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671255691317",
+    "project_id": "reminderly-dbb29",
+    "storage_bucket": "reminderly-dbb29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671255691317:android:5fd97c8977920bee28f17c",
+        "android_client_info": {
+          "package_name": "com.example.reminderly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671255691317-mvjjjglflk62sdc2pta133mj8atug9fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWOaxLzFv3CD2uBA2kNpzW8BNCmlOqhfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671255691317-mvjjjglflk62sdc2pta133mj8atug9fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
